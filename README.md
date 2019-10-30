@@ -1,5 +1,5 @@
 # Countries Capitals
-📦 🇧🇷 A simple package to get the capital of the countries
+📦 🇧🇷 A simple package to get the capital of the countries https://www.npmjs.com/package/countries-capitals
 
 ![Travis (.org)](https://img.shields.io/travis/chgasparoto/countries-capitals?style=flat-square)
 ![Codecov](https://img.shields.io/codecov/c/github/chgasparoto/countries-capitals?style=flat-square)
